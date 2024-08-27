@@ -4,6 +4,7 @@
 
 This project analyzes healthcare data to extract insights into patient experiences, operational efficiency, and demographic trends. The dataset includes patient information, appointment details, and department referrals. This README outlines the key metrics calculated, the analysis conducted, and the data structure used.
 
+![Overview](https://github.com/Dinesh949/Patient-Emergency-Room-Visit-Report-Analysis/blob/main/Health_Care/Overview.jpg)
 ## Key Metrics and Analysis
 
 1. **Average Wait Time**
